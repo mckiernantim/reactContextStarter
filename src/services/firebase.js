@@ -1,3 +1,5 @@
+// This is our firebase Service 
+// A service's primary goal is to share logic between multiple components
 import dotenv from "dotenv"
 import * as firebase from "firebase"
 dotenv.config();
